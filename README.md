@@ -3,5 +3,5 @@
 
 by: Zachary Klein
 
-[Tutorial Here]: (http://guides.grails.org/react-combined/guide/index.html) 
+[Tutorial Here](http://guides.grails.org/react-combined/guide/index.html) 
 
